@@ -1,16 +1,16 @@
-# Hoje eu aprendi - Creates e Inserts
+# :books: Hoje eu aprendi - Creates e Inserts
 <p align="center">Dois exercícios de Create e Insert do SQL Server.</p>
 
 <br>
 <br>
 
-# Objetivo
+# :blue_book: Objetivo
 
 O objetivo desse exercício é fundamentare fixar através da prática os conceitos de Create e Insert do Sql usando Sql Server.
 
 <br>
 
-# Tecnologias
+# :computer: Tecnologias
 
 As tecnológias utilizadas foram
 
