@@ -1,16 +1,11 @@
-# Hoje eu aprendi - Vetores
-<p align="center">Meu primeiro exercício com vetores.</p>
-
-
-<br>
-<br>
+# Hoje eu aprendi - Creates e Inserts
+<p align="center">Dois exercícios de Create e Insert do SQL Server.</p>
 
 <br>
 <br>
-
 # Objetivo
 
-O objetivo desse exercício é fundamentar através da prática os conceitos básicos de vetor(Array) usando Java.
+O objetivo desse exercício é fundamentare fixar através da prática os conceitos de Create e Insert do Sql usando Sql Server.
 
 <br>
 <br>
@@ -19,4 +14,4 @@ O objetivo desse exercício é fundamentar através da prática os conceitos bá
 
 As tecnológias utilizadas foram
 
-![Badge](https://img.shields.io/static/v1?label=&message=Java&color=FF4040&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=&message=SQL_Server&color=a9a9a9&style=for-the-badge)
