@@ -3,11 +3,11 @@
 
 <br>
 <br>
+
 # Objetivo
 
 O objetivo desse exercício é fundamentare fixar através da prática os conceitos de Create e Insert do Sql usando Sql Server.
 
-<br>
 <br>
 
 # Tecnologias
