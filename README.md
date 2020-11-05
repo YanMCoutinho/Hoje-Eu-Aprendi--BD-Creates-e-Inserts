@@ -14,4 +14,4 @@ O objetivo desse exercício é fundamentare fixar através da prática os concei
 
 As tecnológias utilizadas foram
 
-![Badge](https://img.shields.io/static/v1?label=&message=SQL_Server&color=a9a9a9&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=&message=SQL_Server&color=darkGraystyle=for-the-badge)
