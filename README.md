@@ -1,5 +1,5 @@
 # :books: Hoje eu aprendi - Creates e Inserts
-<p>Dois exercícios de Create e Insert do SQL Server.</p>
+<p>Dois exercícios de Create e Insert do SQL Server. Sendo um só de Create e o outro de Create e Insert.</p>
 
 <br>
 
@@ -11,6 +11,6 @@ O objetivo desse exercício é fundamentare fixar através da prática os concei
 
 # :computer: Tecnologias
 
-As tecnológias utilizadas foram
+As tecnológias utilizadas foram:
 
 ![Badge](https://img.shields.io/static/v1?label=&message=SQL_Server&color=darkGraystyle=for-the-badge)
