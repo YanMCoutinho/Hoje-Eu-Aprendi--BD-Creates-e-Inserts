@@ -2,7 +2,6 @@
 <p>Dois exercícios de Create e Insert do SQL Server.</p>
 
 <br>
-<br>
 
 # :blue_book: Objetivo
 
