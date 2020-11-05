@@ -1,5 +1,5 @@
 # :books: Hoje eu aprendi - Creates e Inserts
-<p align="center">Dois exercícios de Create e Insert do SQL Server.</p>
+<p>Dois exercícios de Create e Insert do SQL Server.</p>
 
 <br>
 <br>
